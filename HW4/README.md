@@ -1,5 +1,5 @@
 # What's in HW4 ?
-### Details of HW4 are in *HW4.pdf* & *HW4_106318025.pdf*
+### Check out *HW4.pdf* & *HW4_106318025.pdf*
 ---
 ### Environment
 #### OS:  Windows 10
