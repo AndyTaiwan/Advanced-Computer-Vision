@@ -1,5 +1,5 @@
 # What's in HW1 ?
-### Details of HW1 is in *HW1.pdf* & *HW1_106318025.pdf*
+### Check out HW1 is in *HW1.pdf* & *HW1_106318025.pdf*
 ---
 ### Environment
 #### OS:  Windows 10
