@@ -1,5 +1,5 @@
 # What's in HW2 ?
-### Details of HW1 is in *HW2.pdf* & *HW2_106318025.pdf*
+### Details of HW2 is in *HW2.pdf* & *HW2_106318025.pdf*
 ---
 ### Environment
 #### OS:  Windows 10
