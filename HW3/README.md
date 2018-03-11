@@ -1,5 +1,5 @@
 # What's in HW3 ?
-### Details of HW3 is in *HW3.pdf* & *HW3_106318025.pdf*
+### Check out *HW3.pdf* & *HW3_106318025.pdf*
 ---
 ### Environment
 #### OS:  Windows 10
