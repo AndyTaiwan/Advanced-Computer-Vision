@@ -1,0 +1,18 @@
+﻿已經開始建置於 2018/3/12 上午 12:50:15。
+     1>節點 2 (Build 目標) 上的專案 "C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\HW2_C\HW2_C.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt HW2_C.cpp
+         HW2_C.cpp
+     1>HW2_C.cpp(32): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>HW2_C.cpp(36): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>HW2_C.cpp(40): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>HW2_C.cpp(45): warning C4244: '=' : 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+     1>HW2_C.cpp(272): warning C4244: '引數' : 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\x64\Debug\HW2_C.exe" /INCREMENTAL /NOLOGO opencv_aruco331.lib opencv_bgsegm331.lib opencv_bioinspired331.lib opencv_calib3d331.lib opencv_ccalib331.lib opencv_core331.lib opencv_datasets331.lib opencv_dnn331.lib opencv_dpm331.lib opencv_face331.lib opencv_features2d331.lib opencv_flann331.lib opencv_fuzzy331.lib opencv_highgui331.lib opencv_img_hash331.lib opencv_imgcodecs331.lib opencv_imgproc331.lib opencv_line_descriptor331.lib opencv_ml331.lib opencv_objdetect331.lib opencv_optflow331.lib opencv_phase_unwrapping331.lib opencv_photo331.lib opencv_plot331.lib opencv_reg331.lib opencv_rgbd331.lib opencv_saliency331.lib opencv_shape331.lib opencv_stereo331.lib opencv_stitching331.lib opencv_structured_light331.lib opencv_superres331.lib opencv_surface_matching331.lib opencv_text331.lib opencv_tracking331.lib opencv_video331.lib opencv_videoio331.lib opencv_videostab331.lib opencv_xfeatures2d331.lib opencv_ximgproc331.lib opencv_xobjdetect331.lib opencv_xphoto331.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\x64\Debug\HW2_C.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\x64\Debug\HW2_C.lib" /MACHINE:X64 x64\Debug\HW2_C.obj
+         HW2_C.vcxproj -> C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\x64\Debug\HW2_C.exe
+     1>專案 "C:\VPILab\NTUT_106_1\Advanced Computer Vision\Homework\HW2\HW2_C\HW2_C\HW2_C.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.95
